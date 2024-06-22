@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Franck Sokora/Documents/Documents/SPRING 2024/ENCAPSULATION DESIGN/WEEK 11/230.09.Ponder",
+      "program": "/Users/Franck Sokora/Documents/Documents/SPRING 2024/ENCAPSULATION DESIGN/WEEK 11/230.09.Ponder/build/Debug/outDebug"
+    }
+  ]
+}
